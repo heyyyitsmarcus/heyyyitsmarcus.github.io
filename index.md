@@ -10,12 +10,13 @@ My GitHub page is http://github.com/heyyyitsmarcus/.
 
 * Lab 5
 
-    Lab 5, part 2 was one of my favorites because it was one of the first labs that bridged the gap between computer science and math to convert a decimal amount of feet to feet and inches. I was able to seperate a decimal value into its integer componenet and its decimal component. Using this, I was able to calculate how much inches was in the decimal component, and returned the results. This worked for any given number, even negative ones.
+    Lab 5, part 2 was one of my favorites because it was one of the first labs that bridged the gap between computer science and math to convert a decimal amount of feet to feet and inches. I was able to separate a decimal value into its integer component and its decimal component. Using this, I calculated how many inches were in the decimal component, and returned the results. This worked for any given number, even negative ones.
 
 * Lab 6
 
-    Lab 6, part 2 was another one of my favorites because it created a fully functioning blackjack score calculator. Blackjack is one of my favorite card games to play with friends, and being able to build a calculator that works every time felt very rewarding. I think with this experience, I can begin to develop more and more game scoring systems, possibly even creating an entire game myself.
+    Lab 6, part 2 was another one of my favorites because it created a fully functioning blackjack score calculator. Blackjack is one of my favorite card games to play with friends, and being able to build a calculator that works every time felt very rewarding. With this experience, I can begin to develop more and more game-scoring systems, possibly even creating an entire game myself.
 
-* Lab boo
+* Lab 11
 
-    Lab boo, part 2 
+    Lab 11, part 2 was my final favorite lab activity because it was where we began to delve into object-oriented programming. We were tasked with creating a guessing game that keeps track of how many turns a user has left before they get a “Game over” message. Decrementing the number of turns each time a user guesses while simultaneously checking if their guess is correct was a challenge, but it was rewarding to complete it.
+
