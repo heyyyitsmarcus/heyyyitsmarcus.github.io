@@ -4,7 +4,7 @@ This is my home page! My name is Marcus McKinstry and I am a student at [Cal Sta
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/heyyyitsmarcus/.
+My GitHub page is http://github.com/heyyyitsmarcus.
 
 ### CPSC 120
 
