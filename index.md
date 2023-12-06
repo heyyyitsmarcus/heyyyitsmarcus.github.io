@@ -1,6 +1,6 @@
-# Hello World
+# Marcus McKinstry's Portfolio
 
-This is my home page! My name is Marcus McKinstry. I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering.
+My name is Marcus McKinstry. I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering.
 
 ## Computer Science Projects
 
